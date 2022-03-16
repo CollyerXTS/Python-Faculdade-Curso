@@ -1,5 +1,0 @@
-declaracao1 = input("Digite o declarante 1: ")
-declaracao2 = input("Digite o declarante 2: ")
-nomeDoEvento = input("Digite o Nome do evento: ")
-valor = float(input('Valor entrada: '))
-print("Declaro para o senhor " + declaracao1 + " que o senhor " + declaracao2 + " esteve presente no evento " + nomeDoEvento + " e gastou o valor de R$ " + str(valor) + " com a entrada")
